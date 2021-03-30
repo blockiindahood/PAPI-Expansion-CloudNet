@@ -1,0 +1,5 @@
+name: PAPI-Expansion-CloudNet
+version: @version@
+main: de.blocki.papi.expansion.CloudNetExpansion
+depend:
+  - PlaceholderAPI
