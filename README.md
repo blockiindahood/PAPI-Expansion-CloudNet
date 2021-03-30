@@ -6,11 +6,11 @@ PAPI-Expansion-CloudNet is a Expansion for the PlaceholderAPI v2.10.9.
   - %cn_current_service_name% : Displays the current Service / Server name
   - %current_service_address% : Displays the current Service / Server address
 
-It's powered by the PlaceholderAPI v2.10.9.
+It's powered by the PlaceholderAPI v2.10.9 and CloudNet Hurricane 3.3.0.
 
 ### Installation
 
-AdvancedScoreboard requires [PlaceholderAPI](https://luckperms.net).
+AdvancedScoreboard requires [PlaceholderAPI](https://luckperms.net) and [CloudNet Hurricane](https://www.spigotmc.org/resources/cloudnet-v3-the-cloud-network-environment-technology.42059/).
 
 Download the Latest Version of the Expansion [here](https://github.com/blockiyt/advancedscoreboard/releases) and put it into your PlaceholderAPI Expansions Folder (plugins/PlayeholderAPI/expansions) folder in your Minecraft Server.
 
